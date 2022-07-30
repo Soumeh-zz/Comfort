@@ -1,0 +1,15 @@
+{
+  "allowMovement": {
+    "fi.dy.masa.malilib.MaLiLibConfigGui": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.grimbo.chipped.menus.ChippedScreen": true,
+    "com.simibubi.create.content.curiosities.tools.BlueprintScreen": true,
+    "com.ianm1647.expandeddelight.util.inventory.screen.JuicerScreen": true,
+    "amymialee.halfdoors.screens.DoorcutterScreen": true,
+    "com.acikek.qcraft.client.gui.screen.QuantumComputerScreen": true,
+    "twilightforest.client.UncraftingGui": true,
+    "com.simibubi.create.content.curiosities.symmetry.SymmetryWandScreen": true,
+    "com.simibubi.create.content.curiosities.zapper.terrainzapper.WorldshaperScreen": true
+  },
+  "hideBackground": {}
+}
