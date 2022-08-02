@@ -5,9 +5,9 @@
     "BerryPie": true,
     "HoneyedApple": true
   },
-  "WateringCan": true,
-  "RoseGold": true,
-  "Ropes": true,
+  "WateringCan": false,
+  "RoseGold": false,
+  "Ropes": false,
   "EnchantmentPrecision": true,
   "EnchantmentSpeed": true,
   "Wrench": true,

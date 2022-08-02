@@ -2,8 +2,8 @@
   "shiftClickEquipping": false,
   "dispenserEquipping": true,
   "enchanting": true,
-  "mobsCanEquipHats": false,
-  "allowAllItems": false,
+  "mobsCanEquipHats": true,
+  "allowAllItems": true,
   "allowedItems": [
     "#banners",
     "#beds",

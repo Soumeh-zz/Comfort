@@ -27,10 +27,10 @@
   "blightstoneOreMinYLevel": 12,
   "blightstoneOreMaxYLevel": 65,
   "blightstoneOreVeinsPerChunk": 4,
-  "piglinsBarterBlightstones": false,
+  "piglinsBarterBlightstones": true,
   "piglinBlightstoneChanceMin": 0.2,
   "piglinBlightstoneChanceMax": 5.0,
-  "lightstonesAreFishingTreasure": false,
+  "lightstonesAreFishingTreasure": true,
   "fishLightstonesChanceMin": 2.0,
   "fishLightstonesChanceMax": 8.0
 }

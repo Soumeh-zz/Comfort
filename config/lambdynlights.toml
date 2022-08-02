@@ -26,6 +26,7 @@ mode = "fancy"
 				cow = true
 				pig = true
 				skeleton = true
+				llama = true
 				bat = true
 				husk = true
 				rabbit = true
@@ -35,6 +36,7 @@ mode = "fancy"
 				dolphin = true
 				item = true
 				stray = true
+				turtle = true
 				salmon = true
 				goat = true
 				furnace_minecart = true
@@ -70,6 +72,7 @@ mode = "fancy"
 				tnt_minecart = true
 				zombie_villager = true
 				small_fireball = true
+				cave_spider = true
 				cod = true
 				witch = true
 				spider = true
@@ -141,4 +144,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
+
+			[light_sources.settings.entities.gateofbabylon]
+				yoyo = true
 
