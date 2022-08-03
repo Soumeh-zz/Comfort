@@ -71,7 +71,7 @@
   "MC-90084": true,
   "MC-93018": true,
   "MC-93384": true,
-  "opt_out_updater": false,
-  "gameplay_fixes_in_multiplayer": false,
+  "opt_out_updater": true,
+  "gameplay_fixes_in_multiplayer": true,
   "default_disabled": false
 }

@@ -4,7 +4,8 @@
     "minecraft:rail",
     "minecraft:activator_rail",
     "minecraft:powered_rail",
-    "minecraft:detector_rail"
+    "minecraft:detector_rail",
+    "minecraft:water"
   ],
   "always_suppress_smoke": false,
   "fetch_translation_updates": true
