@@ -1,10 +1,10 @@
 {
   "general": {
-    "displayTooltip": false,
-    "shiftForDetails": true,
-    "displayMode": "HOLD_KEY",
-    "hideFromPlayerList": false,
-    "hideFromDebug": false,
+    "displayTooltip": true,
+    "shiftForDetails": false,
+    "displayMode": "TOGGLE",
+    "hideFromPlayerList": true,
+    "hideFromDebug": true,
     "enableTextToSpeech": false,
     "rateLimit": 250,
     "maxHealthForRender": 40,

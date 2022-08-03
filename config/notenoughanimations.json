@@ -40,7 +40,7 @@
   "petAnimation": true,
   "fallingAnimation": false,
   "freezingAnimation": true,
-  "huggingAnimation": true,
+  "huggingAnimation": false,
   "narutoRunning": false,
-  "enableInWorldBookRendering": true
+  "enableInWorldBookRendering": false
 }

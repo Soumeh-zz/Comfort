@@ -1,0 +1,7 @@
+{
+  "includeVanillaSplashes": true,
+  "includeModNames": true,
+  "customSplashes": [
+    "splash.splashy.tips"
+  ]
+}
