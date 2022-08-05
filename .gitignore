@@ -1,7 +1,5 @@
 .fabric/
 .vscode/
-config/
-!config.WindowTitleChanger/
 coremods/
 crash-reports/
 defaultconfiigs/
@@ -24,6 +22,5 @@ options.txt
 patchouli_data.json
 servers.dat_old
 usercache.json
-brb.pins
 slotlock.json
 itemscroller/
