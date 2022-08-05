@@ -24,3 +24,6 @@ options.txt
 patchouli_data.json
 servers.dat_old
 usercache.json
+brb.pins
+slotlock.json
+itemscroller/
