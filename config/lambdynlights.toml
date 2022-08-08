@@ -80,6 +80,7 @@ mode = "fancy"
 				fireball = true
 				player = true
 				pufferfish = true
+				illusioner = true
 				potion = true
 				trident = true
 				wolf = true
@@ -152,6 +153,10 @@ mode = "fancy"
 			[light_sources.settings.entities.goblintraders]
 				goblin_trader = true
 
+			[light_sources.settings.entities.mbembe]
+				dodo = true
+				mokele = true
+
 			[light_sources.settings.entities.the_aether]
 				white_swet = true
 				cockatrice = true
@@ -172,6 +177,7 @@ mode = "fancy"
 				creeperling = true
 
 			[light_sources.settings.entities.create]
+				super_glue = true
 				crafting_blueprint = true
 				potato_projectile = true
 
@@ -187,6 +193,13 @@ mode = "fancy"
 			[light_sources.settings.entities.neutrino]
 				rat = true
 				duck = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				copper_golem = true
+				glare = true
+				moobloom = true
+				mauler = true
+				iceologer = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true

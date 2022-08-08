@@ -1,15 +1,19 @@
 {
 	"basics": {
 		"favorites": [
-			"{data:{Count:1b,id:\"farmersdelight:stove\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"create:zinc_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"infusion_table:infusion_table\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:tinted_glass\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_sword\",tag:{Damage:351,Enchantments:[{id:\"minecraft:sharpness\",lvl:4s},{id:\"incantationem:decay\",lvl:1s},{id:\"minecraft:looting\",lvl:3s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:splash_potion\",tag:{Potion:\"minecraft:weakness\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:10},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:andesite_alloy\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		"hiddenFavorites": [],
 		"displayHistory": [
 			"{DisplayHistoryCategory:\"minecraft:plugins/tag\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"48f00fae-a3d4-412a-9383-3da74a55ff60\"}"
 		],
 		// Declares whether cheating mode is on.
-		"cheating": false,
+		"cheating": true,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
